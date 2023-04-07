@@ -1,0 +1,6 @@
+#Ignore Directories
+
+#Ignore Extensions
+*.meta
+
+#Ignore Files
